@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9808121f-96fe-4114-9427-b391081b144a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2gCDc8yinoCpmkyaA4OB21kRpHF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Armstrongnumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrayex.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arraylistt.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Aswpa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casecheck.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Casting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ChangeValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditonals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnhancedSwitch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Findone.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Io.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LoopsImplementation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Mathodoverloading.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Max.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Methodsorfunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NestedSwrich.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Passingarr.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Prac.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practwod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Revers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reverse.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Swap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Temperature.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Twodarrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Varags.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/VIVEK/IdeaProjects/javabasics/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Io" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Io" />
+      <module name="javabasics" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Io" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9808121f-96fe-4114-9427-b391081b144a" name="Changes" comment="" />
+      <created>1715192746733</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715192746733</updated>
+      <workItem from="1715192747756" duration="1833000" />
+      <workItem from="1715276045388" duration="4164000" />
+      <workItem from="1715439387687" duration="3174000" />
+      <workItem from="1715521722321" duration="5980000" />
+      <workItem from="1715540264348" duration="6975000" />
+      <workItem from="1715581569572" duration="5788000" />
+      <workItem from="1715602734912" duration="5758000" />
+      <workItem from="1715619671326" duration="1797000" />
+      <workItem from="1715871340613" duration="4813000" />
+      <workItem from="1715960405113" duration="5610000" />
+      <workItem from="1715973269496" duration="4281000" />
+      <workItem from="1715978388884" duration="22000" />
+      <workItem from="1716033977216" duration="1062000" />
+      <workItem from="1716042749843" duration="593000" />
+      <workItem from="1716044609845" duration="1319000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Casting.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

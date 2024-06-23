@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary/Binary.iml" filepath="$PROJECT_DIR$/Binary/Binary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear search/Binary seach.iml" filepath="$PROJECT_DIR$/Linear search/Binary seach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Searching.iml" filepath="$PROJECT_DIR$/Searching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting/Sorting.iml" filepath="$PROJECT_DIR$/Sorting/Sorting.iml" />
+    </modules>
+  </component>
+</project>
