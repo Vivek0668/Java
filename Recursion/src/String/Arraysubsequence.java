@@ -15,9 +15,14 @@ public class Arraysubsequence {
 
     static ArrayList<String> sub(String pro, String unpro) {
         ArrayList<String> list = new ArrayList<>();
+
+
       if(unpro.isEmpty()) {
           list.add(pro);
+
           return list;
+
+
       }
 
 
